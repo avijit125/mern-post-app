@@ -1,0 +1,1 @@
+export const BASE_URL = ''; // Replace this with your actual API base URL
